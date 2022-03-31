@@ -1,2 +1,2 @@
 # Graph Neural Networks and Gene metapathways
-Work in progress
+Received the expression matrices, work in progress
