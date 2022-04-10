@@ -1,2 +1,2 @@
-model_checkpoint_path: "GRAPHSAGEtumorGenesStageIIIFull.ckpt"
-all_model_checkpoint_paths: "GRAPHSAGEtumorGenesStageIIIFull.ckpt"
+model_checkpoint_path: "GRAPHSAGEtumorGenesNormalStrange.ckpt"
+all_model_checkpoint_paths: "GRAPHSAGEtumorGenesNormalStrange.ckpt"
