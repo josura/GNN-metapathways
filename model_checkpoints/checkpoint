@@ -1,2 +1,2 @@
-model_checkpoint_path: "GRAPHSAGEtumorGenesLumBShort.ckpt"
-all_model_checkpoint_paths: "GRAPHSAGEtumorGenesLumBShort.ckpt"
+model_checkpoint_path: "GRAPHSAGEtumorGenesLumB113.ckpt"
+all_model_checkpoint_paths: "GRAPHSAGEtumorGenesLumB113.ckpt"
