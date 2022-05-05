@@ -44,5 +44,7 @@ colnames(testing)[which(names(testing) == "type")] <- "true_type"
 
 classifier.rf <- randomForest(type ~ ., data = training,importance=TRUE, proximity=TRUE)
 
+classifier.rf
+
 predictedType <- predict(classifier.rf,testing)
 table(predictedType,testing$true_type)
